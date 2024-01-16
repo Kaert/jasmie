@@ -8,6 +8,60 @@
 	
 	<title>Jasminae</title>
 
+<link rel="stylesheet" type="text/css" href="bootstrap css">
+
+
+
+</head>
+
+<style>
+
+html {
+  position: relative;
+  min-height: 100%;}
+
+body{
+
+  background:#red    ;
+  
+}
+
+.footer{
+background:black; 
+color: #ffffff; 
+ padding-left: 0px;
+ padding-right: 0px;
+
+
+  position: absolute;
+  bottom: 0px;
+  width: 100%;
+  /* Set the fixed height of the footer here */
+  height: 0px;
+-webkit-backface-visibility: hidden;
+
+}
+
+h1{
+	font-family: 'BenchNine', sans-serif;
+	font-size: 50px;
+	
+
+}
+
+
+
+h2{ font-family: 'BenchNine', sans-serif;
+
+  color: #8B320C;
+
+font-size: 30px;
+text-align: center;
+
+
+}
+
+h3{ color: #8B320C;
 <body>
 
 
